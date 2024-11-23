@@ -1,4 +1,4 @@
-# LearnCpp-2024 Modern C++ Concepts Classification
+# LearnCpp-2024 
 This repository is a documentation of the C++ Programming Language. It covers a wide range of topics to become an expert in C++ programming
 
 Modern C++ has evolved significantly, introducing a plethora of features and concepts that enhance performance, safety, and ease of programming. Below is a comprehensive classification of these concepts, grouped and sub-sectioned for clarity.
