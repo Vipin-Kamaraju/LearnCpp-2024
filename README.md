@@ -12,7 +12,7 @@ Modern C++ has evolved significantly, introducing a plethora of features and con
 - **Primitive Types**
   - `int`, `char`, `float`, `double`, `bool`
 - **Type Modifiers**
-  - `signed`, `unsigned`, `short`, `long`
+  - `signed`, `unsigned`, `short`, `long` , `volatile`, `mutable`, `const`
 - **User-Defined Types**
   - `struct`, `class`, `union`, `enum`
 
