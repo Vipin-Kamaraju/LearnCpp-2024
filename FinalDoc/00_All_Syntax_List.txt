@@ -1,0 +1,37 @@
+pointers
+reference
+volatile keyword
+const keyword, mutable
+for loop with auto
+lambda function , std::function , auto
+constexp
+static keyword
+virtual keyword
+Templates
+dynamic_cast
+static_cast
+Polymorphism
+final keyword
+function pointers
+keyword mutable
+auto keyword
+this syntax
+smart pointers
+unique pointers
+shared pointers
+weak pointers
+fold expression
+callbacks
+initializer_list
+inline functions
+virtual functions
+override keyword
+pure virtual functions
+typedef
+using
+RAII
+Rule of Three
+Rule of Five
+Move Semantics
+friend functions
+
