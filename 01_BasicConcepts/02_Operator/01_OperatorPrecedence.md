@@ -8,4 +8,10 @@ Here is the **operator precedence** for arithmetic operators in C++, from **high
 
 Operators with higher precedence are evaluated before those with lower precedence. When operators have the same precedence, evaluation is done from left to right.
 
+## Operator Precedence with Operator types
+1. Arithmetic operators(`+,-,*,/,%`)
+2. Bitwise operators (`&, ^, |, >>, <<, ~`) 
+3. Logical operators (`&&,||, !`)
+
+- Parentheses are recommended for clarity.
 ---
