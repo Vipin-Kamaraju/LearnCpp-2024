@@ -1,3 +1,5 @@
+# `for_each` loop
+
 The syntax for `std::for_each` in C++ is as follows:
 
 ```cpp
