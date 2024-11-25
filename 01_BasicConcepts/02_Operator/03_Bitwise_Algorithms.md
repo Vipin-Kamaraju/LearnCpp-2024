@@ -364,6 +364,9 @@ cout << "Swapped Bits: " << swapEvenOddBits(num); // Outputs 43 (00101011)
    - `oddMask = 0x55555555`:
      - Binary: `01010101010101010101010101010101`
      - This selects only the odd bits.
+   - Another way to represent evenmask and oddmask in `binary literals`
+     - int evenmask = 0b10101010; // Binary: 10101010 (170 in decimal)
+     - int oddmask = 0b01010101;  // Binary: 01010101 (85 in decimal)
 
 3. **Steps in the Formula**:
    - **Mask Even Bits**: Use `num & evenMask` to isolate the even bits, then shift them right by `1` to move them to the odd positions.
