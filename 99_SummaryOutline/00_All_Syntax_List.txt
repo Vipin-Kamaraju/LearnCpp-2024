@@ -2,18 +2,17 @@ pointers
 reference
 volatile keyword
 const keyword, mutable
-for loop with auto
+for loop  (Range based for loop with auto, smart pointer iterators)
 lambda function , std::function , auto
 constexp
 static keyword
-virtual keyword
+virtual keyword <--> override keyword , virtual functions, pure virtual functions , abstract classes
 Templates
 dynamic_cast
 static_cast
 Polymorphism
-final keyword
+final keyword - "to prevent further overloading of function"
 function pointers
-keyword mutable
 auto keyword
 this syntax
 smart pointers
@@ -24,9 +23,6 @@ fold expression
 callbacks
 initializer_list
 inline functions
-virtual functions
-override keyword
-pure virtual functions
 typedef
 using
 RAII
@@ -34,4 +30,4 @@ Rule of Three
 Rule of Five
 Move Semantics
 friend functions
-
+interrupts
