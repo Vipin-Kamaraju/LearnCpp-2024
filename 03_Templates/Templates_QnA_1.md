@@ -240,7 +240,3 @@
     requires std::integral<T>
     void print(T value) { cout << value << endl; }
     ```
-
----
-
-This Q&A should help you revise the concepts thoroughly. Let me know if you'd like me to add more advanced questions or examples! 😊
