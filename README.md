@@ -14,6 +14,7 @@ This is a high-level overview of the topics covered in this documentation. For d
 - **1.1 Variables and Types**
 - **1.2 Operators**
 - **1.3 Control Flow**
+- **1.4 Pointers and References**
 
 ---
 

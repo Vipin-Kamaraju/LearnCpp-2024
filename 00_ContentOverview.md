@@ -36,6 +36,8 @@ Modern C++ has evolved significantly, introducing a plethora of features and con
 - **Jump Statements**
   - `break`, `continue`, `return`, `goto`
 
+### 1.4 **Pointers and References**
+
 ---
 
 ## 2. **Object-Oriented Programming (OOP)**
