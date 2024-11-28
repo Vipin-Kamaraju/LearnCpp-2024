@@ -31,3 +31,4 @@ Rule of Five
 Move Semantics
 friend functions
 interrupts
+boilerplate code
