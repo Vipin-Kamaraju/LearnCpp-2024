@@ -5,7 +5,7 @@ const keyword, mutable
 for loop  (Range based for loop with auto, smart pointer iterators)
 lambda function , std::function , auto
 constexp
-static keyword
+static keyword <--> inline keyword
 virtual keyword <--> override keyword , virtual functions, pure virtual functions , abstract classes
 Templates
 dynamic_cast
