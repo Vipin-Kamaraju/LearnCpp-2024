@@ -1,3 +1,9 @@
+### Sequence Diagram
+
+![Sequence Diagram](Png/01_Virtual_keyword.png)
+
+---
+
 ### C++ Code Example: Virtual vs Non-Virtual Behavior
 
 ```cpp
@@ -88,9 +94,6 @@ DerivedPrint -> Developer: Output: "Derived::vprint()"
 
 ---
 
-### Sequence Diagram
-
-![Sequence Diagram](Png/01_Virtual_keyword.png)
 
 ### Summary
 
