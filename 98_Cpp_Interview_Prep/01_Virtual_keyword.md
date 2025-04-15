@@ -88,6 +88,10 @@ DerivedPrint -> Developer: Output: "Derived::vprint()"
 
 ---
 
+### Sequence Diagram
+
+![Sequence Diagram](Png/01_Virtual_keyword.png)
+
 ### Summary
 
 | Feature         | `print()`                     | `vprint()`                      |
@@ -96,4 +100,3 @@ DerivedPrint -> Developer: Output: "Derived::vprint()"
 | Behavior       | Calls `Base::print`            | Calls `Derived::vprint`         |
 | Requires `virtual` | ❌ No                          | ✅ Yes                           |
 
-Would you like me to show a **similar sequence when `virtual` is NOT used**, for contrast?
