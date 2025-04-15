@@ -1,8 +1,14 @@
-### Sequence Diagram
+### Sequence Diagram Virtual Keyword
 
 ![Sequence Diagram](Png/01_Virtual_keyword.png)
 
 ---
+### Sequence Diagram Virtual Destructor
+
+![Sequence Diagram](Png/01_Virtual_Destructor.png)
+
+---
+
 
 ### C++ Code Example: Virtual vs Non-Virtual Behavior
 
